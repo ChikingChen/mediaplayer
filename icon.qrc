@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/pictures">
+        <file>img/1.jpg</file>
+        <file>img/2.jpg</file>
+        <file>img/3.jpg</file>
+        <file>img/4.png</file>
+        <file>img/5.jpg</file>
+        <file>img/6.jpg</file>
+        <file>img/7.jpg</file>
+        <file>img/8.jpg</file>
+        <file>img/9.jpg</file>
+        <file>img/10.png</file>
+        <file>img/11.jpg</file>
+        <file>img/12.png</file>
+        <file>img/add music.png</file>
+        <file>img/StartStop.png</file>
+        <file>img/StartStop2.png</file>
+        <file>img/sound.png</file>
+        <file>img/NextSong.png</file>
+        <file>img/PreviousSong.png</file>
+        <file>img/Loop.png</file>
+        <file>img/RandLoop.png</file>
+        <file>img/SingleLoop.png</file>
+        <file>img/封面.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
